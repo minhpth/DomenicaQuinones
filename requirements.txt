@@ -6,4 +6,4 @@ datetime
 numpy
 plotly
 datetime
-Image
+Pillow
