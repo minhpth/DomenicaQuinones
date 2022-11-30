@@ -1,0 +1,13 @@
+streamlit
+pandas
+yfinance
+matplotlib.pyplot
+pandas_datareader.data
+datetime
+numpy
+plotly.graph_objects
+datetime
+PIL
+Image
+plotly.subplots
+make_subplots
