@@ -7,6 +7,5 @@ datetime
 numpy
 plotly
 datetime
-PIL
 Image
 make_subplots
