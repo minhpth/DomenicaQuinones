@@ -3,7 +3,5 @@ yfinance
 matplotlib
 pandas_datareader
 datetime
-numpy
 plotly
-datetime
 Pillow
